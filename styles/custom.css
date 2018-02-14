@@ -267,10 +267,7 @@ h1 {font-family: 'Source Sans Pro', sans-serif; font-weight: normal; font-style:
 
 .sidebox a {color: rgb(164, 39, 143);}
 
-#decorative1 {position: relative; background-color: rgb(240, 240, 240); background-image: url(bright-lights-big-city.jpg); -webkit-background-size: cover; background-size: cover; background-position: 50% 50%; background-repeat: no-repeat no-repeat;
--webkit-box-shadow: 0px 3px 11px rgba(0, 0, 0, 0.7);
--moz-box-shadow:    0px 3px 11px rgba(0, 0, 0, 0.7);
-box-shadow:         0px 3px 11px rgba(0, 0, 0, 0.7);}
+#decorative1 {position: relative;background-color: rgb(240, 240, 240);background-image: url(big-images/bright-lights-big-city.jpg);-webkit-background-size: cover;background-size: cover;background-position: 50% 50%;background-repeat: no-repeat no-repeat;-webkit-box-shadow: 0px 3px 11px rgba(0, 0, 0, 0.7);-moz-box-shadow:    0px 3px 11px rgba(0, 0, 0, 0.7);box-shadow:         0px 3px 11px rgba(0, 0, 0, 0.7);}
 
 #decorative2{background-color: rgb(61, 61, 61); height: 85px;}
 
